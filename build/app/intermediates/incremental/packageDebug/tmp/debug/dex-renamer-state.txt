@@ -1,0 +1,4 @@
+#Mon Feb 05 20:58:39 IST 2024
+base.0=D\:\\project\\smartcredit-app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
